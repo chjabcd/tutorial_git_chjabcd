@@ -1,5 +1,6 @@
 <html>
-<<<<<<< HEAD
+<title>标</title>
+<header></header>
 	<body>
 	标
 <ui></ui>
@@ -8,9 +9,5 @@
 家俺眠啊
 
 滚傈眠啊
-=======
-<title>标</title>
-<header></header>
-	<body></body>
-</html>
->>>>>>> 鞁ろ棙
+
+
