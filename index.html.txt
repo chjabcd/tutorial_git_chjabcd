@@ -1,4 +1,5 @@
 <html>
+<title>Бъ</title>
 <header></header>
 	<body></body>
 </html>
