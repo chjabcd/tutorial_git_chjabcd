@@ -1,4 +1,5 @@
 <html>
+<<<<<<< HEAD
 	<body>
 	±ê
 <ui></ui>
@@ -7,3 +8,9 @@
 ¼Ò°³Ãß°¡
 
 ¹öÀüÃß°¡
+=======
+<title>±ê</title>
+<header></header>
+	<body></body>
+</html>
+>>>>>>> ì‹¤í—˜
